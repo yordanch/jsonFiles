@@ -1,0 +1,48 @@
+{
+    "title": "Cursos",
+    "cursos": [
+        {
+            "categoria": "Matemáticas",
+            "cursos": [
+                {
+                    "curso": "Aritmética",
+                    "author": "Yordanch Vargas Velasque",
+                    "imagescreen": "",
+                    "descripcion": "",
+                    "fechasubida": "",
+                    "videos": [
+                        {"Tema": "Razones y proporciones teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
+                        {"Tema": "Razones y proporciones ejercicio 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                    ]
+                },
+                {
+                    "curso": "Física",
+                    "author": "Yordanch Vargas Velasque",
+                    "imagescreen": "",
+                    "descripcion": "",
+                    "fechasubida": "",
+                    "videos": [
+                        {"Tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
+                        {"Tema": "Análisis dimensional ejercicios 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "Programación",
+            "cursos": [
+                {
+                    "curso": "Flutter",
+                    "author": "Yordanch Vargas Velasque",
+                    "imagescreen": "",
+                    "descripcion": "",
+                    "fechasubida": "",
+                    "videos": [
+                        {"Tema": "Widgets - texto", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
+                        {"Tema": "Widgets - cotainer", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                    ]
+                }
+            ]
+        }
+    ]
+}
