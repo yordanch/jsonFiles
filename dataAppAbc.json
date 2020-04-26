@@ -25,6 +25,16 @@
                         {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
                         {"tema": "Análisis dimensional ejercicios 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
                     ]
+                },
+                {
+                    "curso": "Química",
+                    "author": "Yordanch Vargas Velasque",
+                    "imagescreen": "",
+                    "descripcion": "",
+                    "fechasubida": "",
+                    "videos": [
+                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                    ]
                 }
             ]
         },
