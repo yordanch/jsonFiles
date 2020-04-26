@@ -7,113 +7,67 @@
                 {
                     "curso": "Aritmética",
                     "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "https://drive.google.com/file/d/0B2xRum5acq7SSDA3SElJa2FuVW8/view?usp=sharing",
+                    "imagescreen": "https://drive.google.com/file/d/1q76pBq8conOu9tjLTPoAQWIULNGQdaPb/view",
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"tema": "Razones y proporciones teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": "https://youtu.be/HXy-X0mU-X4"},
-                        {"tema": "Razones y proporciones ejercicio 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": "https://youtu.be/XyDNnm4JuMA"}
+                        {
+                            "tema": "Razones y proporciones - teoría",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/HXy-X0mU-X4",
+                            "imagescreen": "https://drive.google.com/file/d/1q76pBq8conOu9tjLTPoAQWIULNGQdaPb/view"
+                        },
+                        {
+                            "tema": "Razones y proporciones - ejercicio parte 1",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/XyDNnm4JuMA",
+                            "imagescreen": "https://drive.google.com/file/d/1XnJBjuJLC8jf42ultQdrBC788JpxNntw/view"
+                        },
+                        {
+                            "tema": "Sistema de numeración - teoria",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/mlnIfPP-w0Y",
+                            "imagescreen": "https://drive.google.com/file/d/1owNb0ciw35I60d9-1YXPBFT4iN_O63_M/view"
+                        },
+                        {
+                            "tema": "Sistema de numeración - ejercicios parte 1",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/LBGI384uhzI",
+                            "imagescreen": "https://drive.google.com/file/d/1wIebwstC0I8BdRKddCU1Q7WLDnBN7jBe/view"
+                        }
                     ]
                 },
                 {
                     "curso": "Física",
                     "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
+                    "imagescreen": "https://drive.google.com/file/d/18dHmWeTAfoSGIs70ahfS1YQM94CuYYpL/view",
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
-                        {"tema": "Análisis dimensional ejercicios 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
-                    ]
-                },
-                {
-                    "curso": "Química",
-                    "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
-                    "descripcion": "",
-                    "fechasubida": "",
-                    "videos": [
-                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                        {
+                            "tema": "Analisis dimencional - teoría",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/Fx8MSyaxNVY",
+                            "imagescreen": "https://drive.google.com/file/d/18dHmWeTAfoSGIs70ahfS1YQM94CuYYpL/view"
+                        },
+                        {
+                            "tema": "Analisis dimencional - ejercicios parte 1",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/kAteeEEK3bY",
+                            "imagescreen": "https://drive.google.com/open?id=1Zo3BMvl2Yy3ZEFsjg-d-04C71UVdvvQp"
+                        }
                     ]
                 }
             ]
@@ -128,8 +82,6 @@
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"tema": "Widgets - texto", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
-                        {"tema": "Widgets - cotainer", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
                     ]
                 }
             ]
