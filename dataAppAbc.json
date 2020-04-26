@@ -7,12 +7,12 @@
                 {
                     "curso": "Aritmética",
                     "author": "Yordanch Vargas Velasque",
-                    "imagescreen": "",
+                    "imagescreen": "https://drive.google.com/file/d/0B2xRum5acq7SSDA3SElJa2FuVW8/view?usp=sharing",
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"Tema": "Razones y proporciones teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
-                        {"Tema": "Razones y proporciones ejercicio 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                        {"tema": "Razones y proporciones teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": "https://youtu.be/HXy-X0mU-X4"},
+                        {"tema": "Razones y proporciones ejercicio 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": "https://youtu.be/XyDNnm4JuMA"}
                     ]
                 },
                 {
@@ -22,8 +22,8 @@
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"Tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
-                        {"Tema": "Análisis dimensional ejercicios 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                        {"tema": "Análisis dimensional teoría", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
+                        {"tema": "Análisis dimensional ejercicios 01", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
                     ]
                 }
             ]
@@ -38,8 +38,8 @@
                     "descripcion": "",
                     "fechasubida": "",
                     "videos": [
-                        {"Tema": "Widgets - texto", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
-                        {"Tema": "Widgets - cotainer", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
+                        {"tema": "Widgets - texto", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""},
+                        {"tema": "Widgets - cotainer", "descripcion": "", "recursos": "", "fechasubida": "", "src": ""}
                     ]
                 }
             ]
