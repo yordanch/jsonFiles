@@ -69,6 +69,31 @@
                             "imagescreen": "https://drive.google.com/open?id=1Zo3BMvl2Yy3ZEFsjg-d-04C71UVdvvQp"
                         }
                     ]
+                },
+                {
+                    "curso": "Física",
+                    "author": "Yordanch Vargas Velasque",
+                    "imagescreen": "https://drive.google.com/file/d/18dHmWeTAfoSGIs70ahfS1YQM94CuYYpL/view",
+                    "descripcion": "",
+                    "fechasubida": "",
+                    "videos": [
+                        {
+                            "tema": "Analisis dimencional - teoría",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/Fx8MSyaxNVY",
+                            "imagescreen": "https://drive.google.com/file/d/18dHmWeTAfoSGIs70ahfS1YQM94CuYYpL/view"
+                        },
+                        {
+                            "tema": "Analisis dimencional - ejercicios parte 1",
+                            "descripcion": "",
+                            "recursos": "",
+                            "fechasubida": "",
+                            "src": "https://youtu.be/kAteeEEK3bY",
+                            "imagescreen": "https://drive.google.com/open?id=1Zo3BMvl2Yy3ZEFsjg-d-04C71UVdvvQp"
+                        }
+                    ]
                 }
             ]
         },
